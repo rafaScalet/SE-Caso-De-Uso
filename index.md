@@ -1,5 +1,3 @@
-# Engenharia de Software - Caso de Uso
-
 ## Exercício
 
 ### A partir deste cenário identifique:
@@ -38,5 +36,6 @@ O tempo de resposta deve ser curto
 4. Pré-Condição: Cliente ter escolhido o método de pagamento "à vista" ou "boleto em até 6 vezes"
 5. Pós-Condição: O produto deverá ter seu preço reduzido com base no desconto aplicado
 6. Fluxo Principal:
+
 ![fluxo-principal](./fluxo-principal.drawio.png)
 7. Fluxo de Exceção: O sistema verifica as regras de desconto, para aplicar ou não, caso não sejam atendidos os requisitos, não será aplicado desconto 
